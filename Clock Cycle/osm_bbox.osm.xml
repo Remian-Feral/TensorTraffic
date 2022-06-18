@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-07-26T10:51:13Z"/>
+
+  <node id="320811086" lat="9.7638694" lon="118.7473406"/>
+  <node id="320811089" lat="9.7609379" lon="118.7471735"/>
+  <node id="320811091" lat="9.7576922" lon="118.7476474"/>
+  <node id="320811101" lat="9.7557628" lon="118.7473466"/>
+  <node id="320811104" lat="9.7526779" lon="118.7477705"/>
+  <node id="430058062" lat="9.7520084" lon="118.7477179">
+    <tag k="highway" v="crossing"/>
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="San Pedro Junction"/>
+  </node>
+  <node id="469173101" lat="9.7574672" lon="118.7426744"/>
+  <node id="469173102" lat="9.7575194" lon="118.7430755"/>
+  <node id="469173105" lat="9.7578267" lon="118.7441347"/>
+  <node id="469173106" lat="9.7579040" lon="118.7444839"/>
+  <node id="469173107" lat="9.7578159" lon="118.7450204"/>
+  <node id="469173108" lat="9.7572815" lon="118.7476337"/>
+  <node id="469173109" lat="9.7574029" lon="118.7476475"/>
+  <node id="469173142" lat="9.7619803" lon="118.7472380"/>
+  <node id="472571106" lat="9.7588188" lon="118.7443703"/>
+  <node id="472571107" lat="9.7586396" lon="118.7475117"/>
+  <node id="472571189" lat="9.7589416" lon="118.7571325"/>
+  <node id="472571198" lat="9.7586112" lon="118.7557257"/>
+  <node id="477394815" lat="9.7578737" lon="118.7447901"/>
+  <node id="477394824" lat="9.7549154" lon="118.7473949"/>
+  <node id="485779114" lat="9.7550729" lon="118.7473607"/>
+  <node id="485779140" lat="9.7588028" lon="118.7564592"/>
+  <node id="485779141" lat="9.7584581" lon="118.7548972"/>
+  <node id="708874490" lat="9.7584264" lon="118.7544573"/>
+  <node id="1108566673" lat="9.7599117" lon="118.7472957"/>
+  <node id="1108566712" lat="9.7591625" lon="118.7585370"/>
+  <node id="1108566800" lat="9.7580064" lon="118.7506057"/>
+  <node id="1108566842" lat="9.7613451" lon="118.7471964"/>
+  <node id="1108566955" lat="9.7593689" lon="118.7462472"/>
+  <node id="1108567162" lat="9.7590846" lon="118.7579542"/>
+  <node id="1108567220" lat="9.7579503" lon="118.7502643"/>
+  <node id="1108567224" lat="9.7532039" lon="118.7477217"/>
+  <node id="1108567294" lat="9.7618573" lon="118.7472307"/>
+  <node id="1108567437" lat="9.7539590" lon="118.7475813"/>
+  <node id="1108567529" lat="9.7593390" lon="118.7473918"/>
+  <node id="1108567629" lat="9.7581953" lon="118.7523532"/>
+  <node id="1108567722" lat="9.7589133" lon="118.7569412"/>
+  <node id="1108567798" lat="9.7577418" lon="118.7482149"/>
+  <node id="1108567925" lat="9.7580216" lon="118.7508330"/>
+  <node id="1108568062" lat="9.7598850" lon="118.7466150"/>
+  <node id="1108568179" lat="9.7581476" lon="118.7519399"/>
+  <node id="1108568303" lat="9.7578659" lon="118.7494601"/>
+  <node id="1108568375" lat="9.7582727" lon="118.7531733"/>
+  <node id="1108568441" lat="9.7580961" lon="118.7514787"/>
+  <node id="1215067663" lat="9.7573114" lon="118.7477964">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="LBC"/>
+  </node>
+  <node id="1215067711" lat="9.7543917" lon="118.7474963"/>
+  <node id="1215067744" lat="9.7572726" lon="118.7477952">
+    <tag k="name" v="Maristela Law Office"/>
+    <tag k="shop" v="lawyer"/>
+  </node>
+  <node id="1215067775" lat="9.7564576" lon="118.7476352">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Pares Plaza"/>
+  </node>
+  <node id="1215067859" lat="9.7569422" lon="118.7477524">
+    <tag k="amenity" v="business_center"/>
+    <tag k="branch" v="Palawan"/>
+    <tag k="name" v="Asianlink Finance Corporation"/>
+  </node>
+  <node id="1215067899" lat="9.7554211" lon="118.7473344"/>
+  <node id="1215067920" lat="9.7586044" lon="118.7476717">
+    <tag k="name" v="Wider Gauge (Bolts &amp; Screws)"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="1215067945" lat="9.7567315" lon="118.7477006">
+    <tag k="name" v="E.S.E. Parts &amp; Hardware"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="1215068008" lat="9.7558994" lon="118.7480660"/>
+  <node id="1215068053" lat="9.7587447" lon="118.7475898">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Kambingan at Iba Pa"/>
+  </node>
+  <node id="1215068073" lat="9.7569010" lon="118.7477464">
+    <tag k="name" v="Berovan Marketing Inc"/>
+    <tag k="shop" v="business_center"/>
+  </node>
+  <node id="1215068077" lat="9.7631400" lon="118.7473012"/>
+  <node id="1215068101" lat="9.7530356" lon="118.7477513"/>
+  <node id="1215068115" lat="9.7564085" lon="118.7480400"/>
+  <node id="1215068153" lat="9.7596857" lon="118.7472227">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Karldale Square"/>
+    <tag k="name" v="LJM Fire Protection System"/>
+    <tag k="shop" v="electronics"/>
+  </node>
+  <node id="1215068245" lat="9.7563938" lon="118.7475701"/>
+  <node id="1215068349" lat="9.7563457" lon="118.7477260">
+    <tag k="amenity" v="bank"/>
+    <tag k="branch" v="Puerto Princesa San Pedro"/>
+    <tag k="name" v="BPI"/>
+  </node>
+  <node id="1215068357" lat="9.7605626" lon="118.7471871"/>
+  <node id="1215068374" lat="9.7573503" lon="118.7477988">
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="name" v="Western Union Money Transfer"/>
+  </node>
+  <node id="1215068401" lat="9.7582198" lon="118.7477290">
+    <tag k="name" v="Transcor Motors"/>
+    <tag k="shop" v="car"/>
+  </node>
+  <node id="1215068442" lat="9.7567966" lon="118.7477106">
+    <tag k="fixme" v="name (missing first name)"/>
+    <tag k="name" v="Dee &amp; Sons"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="1215068469" lat="9.7565910" lon="118.7476611">
+    <tag k="name" v="Reyes Haircutters"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="1215068583" lat="9.7558571" lon="118.7474582"/>
+  <node id="1215068588" lat="9.7586316" lon="118.7477192">
+    <tag k="name" v="Ofel's Wedding Gown"/>
+    <tag k="shop" v="boutique"/>
+  </node>
+  <node id="1215068602" lat="9.7566841" lon="118.7477840"/>
+  <node id="1220014884" lat="9.7579158" lon="118.7475519">
+    <tag k="name" v="Citi Laboratory (Salon, Nail Spa)"/>
+    <tag k="note" v="weird &amp; confusing signboard - but that's it"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source" v="phototag"/>
+  </node>
+  <node id="1220014892" lat="9.7585280" lon="118.7474426">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="Pit Stop Palawan (tires, vulcanizing)"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="1220014896" lat="9.7589957" lon="118.7473764">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Pediapco Centre"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="Norkis"/>
+    <tag k="shop" v="motorcycle"/>
+  </node>
+  <node id="1220014904" lat="9.7592371" lon="118.7473490">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="John Dee Mdsg. Hardware"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="1220014908" lat="9.7591572" lon="118.7478128"/>
+  <node id="1220014912" lat="9.7581958" lon="118.7474959">
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="D.T.I. (Dept of Trade &amp; Industry)"/>
+  </node>
+  <node id="1220014924" lat="9.7592628" lon="118.7473476">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="JayMar Appliance Center"/>
+    <tag k="shop" v="furniture"/>
+  </node>
+  <node id="1220014927" lat="9.7571633" lon="118.7475564">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way"/>
+    <tag k="brand" v="Motolite"/>
+    <tag k="name" v="Battery World"/>
+    <tag k="phone" v="+63 4345089"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="1220014932" lat="9.7574610" lon="118.7475939">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="DJ Ann Rich Foodcourt (eatery)"/>
+  </node>
+  <node id="1220014940" lat="9.7587521" lon="118.7474161">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="name" v="Alton Gen. Merchandising (Makita)"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="1220014944" lat="9.7590278" lon="118.7473231">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Pediapco Centre"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Pediapco Centre"/>
+  </node>
+  <node id="1220014951" lat="9.7596236" lon="118.7471620">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Karldale Square"/>
+  </node>
+  <node id="1220014955" lat="9.7595835" lon="118.7472298">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Karldale Square"/>
+    <tag k="name" v="Copylandia"/>
+    <tag k="shop" v="business_center"/>
+  </node>
+  <node id="1220014958" lat="9.7577789" lon="118.7475715">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="name" v="Bagong Bukas"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="1220014976" lat="9.7590275" lon="118.7473686">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Pediapco Centre"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="Swift Food Inc"/>
+    <tag k="shop" v="general"/>
+  </node>
+  <node id="1220014979" lat="9.7561806" lon="118.7473761">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="Vulcanizing Shop"/>
+    <tag k="shop" v="vulcanizing"/>
+  </node>
+  <node id="1220014983" lat="9.7576443" lon="118.7475948">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="name" v="J&amp;H Gen. Merch. (Medical/Industrial Gases)"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="1220014987" lat="9.7595466" lon="118.7472333">
+    <tag k="name" v="Miok's  Gen. Merchandise"/>
+    <tag k="shop" v="general_merchandise"/>
+  </node>
+  <node id="1220014991" lat="9.7581541" lon="118.7474967">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="PPC-San Pedro"/>
+    <tag k="name" v="Mercury Drug"/>
+  </node>
+  <node id="1220014996" lat="9.7590597" lon="118.7473686">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Pediapco Centre"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="name" v="St. Peter's Pet Station"/>
+    <tag k="shop" v="pet_supply"/>
+  </node>
+  <node id="1220014999" lat="9.7561133" lon="118.7473584">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Uniworld Junkshop"/>
+    <tag k="recycling_type" v="centre"/>
+  </node>
+  <node id="1220015003" lat="9.7592600" lon="118.7473123">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way, Bgy San Pedro"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="JVPC Building"/>
+  </node>
+  <node id="1220015007" lat="9.7596360" lon="118.7472254">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Karldale Square"/>
+    <tag k="name" v="Aqua Prima (purified drinking water)"/>
+    <tag k="shop" v="general_merchandise"/>
+  </node>
+  <node id="1767099572" lat="9.7566701" lon="118.7475157"/>
+  <node id="1767099577" lat="9.7569155" lon="118.7464909"/>
+  <node id="1767099579" lat="9.7569892" lon="118.7461349"/>
+  <node id="1767099580" lat="9.7575001" lon="118.7429625"/>
+  <node id="1767099584" lat="9.7577652" lon="118.7439365"/>
+  <node id="1767099586" lat="9.7577563" lon="118.7453091"/>
+  <node id="1767099590" lat="9.7578948" lon="118.7443881"/>
+  <node id="1767099595" lat="9.7583350" lon="118.7441833"/>
+  <node id="1767099601" lat="9.7584242" lon="118.7441960"/>
+  <node id="1767099602" lat="9.7586866" lon="118.7465133"/>
+  <node id="1767099604" lat="9.7587204" lon="118.7456736"/>
+  <node id="1767099606" lat="9.7587315" lon="118.7442711"/>
+  <node id="1767099619" lat="9.7593871" lon="118.7462060"/>
+  <node id="1767099621" lat="9.7597464" lon="118.7462022"/>
+  <node id="1767099632" lat="9.7598616" lon="118.7462224"/>
+  <node id="1767099633" lat="9.7598946" lon="118.7462573"/>
+  <node id="1767099641" lat="9.7607738" lon="118.7471714"/>
+  <node id="1841048611" lat="9.7594611" lon="118.7606226"/>
+  <node id="1841057398" lat="9.7525229" lon="118.7477659"/>
+  <node id="1854269908" lat="9.7591781" lon="118.7472574">
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="name" v="M Lhuillier"/>
+  </node>
+  <node id="1854269922" lat="9.7564494" lon="118.7474043"/>
+  <node id="1854269925" lat="9.7564831" lon="118.7468822"/>
+  <node id="1854269928" lat="9.7566789" lon="118.7474456"/>
+  <node id="1854269929" lat="9.7568023" lon="118.7469492"/>
+  <node id="1854269932" lat="9.7568474" lon="118.7477354"/>
+  <node id="1854269943" lat="9.7568521" lon="118.7478381"/>
+  <node id="1854269945" lat="9.7570114" lon="118.7473990"/>
+  <node id="1854269947" lat="9.7570595" lon="118.7478712"/>
+  <node id="1854269948" lat="9.7570613" lon="118.7477872"/>
+  <node id="1854269950" lat="9.7570463" lon="118.7472124"/>
+  <node id="1854269951" lat="9.7571619" lon="118.7474280"/>
+  <node id="1854269952" lat="9.7571968" lon="118.7472414"/>
+  <node id="1854269953" lat="9.7577521" lon="118.7477263"/>
+  <node id="1854269954" lat="9.7577840" lon="118.7482104"/>
+  <node id="1854269955" lat="9.7578763" lon="118.7477157"/>
+  <node id="1854269957" lat="9.7580554" lon="118.7476915"/>
+  <node id="1854269958" lat="9.7581260" lon="118.7481961"/>
+  <node id="2503161685" lat="9.7569295" lon="118.7477604">
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:housename" v="Daniel Alley II Business Centre"/>
+    <tag k="addr:housenumber" v="5300"/>
+    <tag k="addr:street" v="National Hi-Way"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Silver Doll"/>
+    <tag k="source" v="Entertainment Disco Bar"/>
+  </node>
+  <node id="2970265548" lat="9.7561575" lon="118.7478769"/>
+  <node id="2970265549" lat="9.7561646" lon="118.7479834"/>
+  <node id="2970265560" lat="9.7563043" lon="118.7478668"/>
+  <node id="2970265561" lat="9.7563102" lon="118.7479556"/>
+  <node id="2970265580" lat="9.7564270" lon="118.7479785"/>
+  <node id="2970265581" lat="9.7564406" lon="118.7478877"/>
+  <node id="2970265588" lat="9.7565593" lon="118.7473698"/>
+  <node id="2970265591" lat="9.7565647" lon="118.7479998"/>
+  <node id="2970265593" lat="9.7565784" lon="118.7479090"/>
+  <node id="2970265597" lat="9.7566007" lon="118.7471722"/>
+  <node id="2970265598" lat="9.7566285" lon="118.7473847"/>
+  <node id="2970265599" lat="9.7566699" lon="118.7471872"/>
+  <node id="2970265610" lat="9.7568457" lon="118.7479584"/>
+  <node id="2970265611" lat="9.7568673" lon="118.7481083"/>
+  <node id="2970265621" lat="9.7569569" lon="118.7479419"/>
+  <node id="2970265624" lat="9.7569785" lon="118.7480918"/>
+  <node id="2970265659" lat="9.7572388" lon="118.7478661"/>
+  <node id="2970265661" lat="9.7572453" lon="118.7477906"/>
+  <node id="2970265669" lat="9.7573054" lon="118.7479649"/>
+  <node id="2970265670" lat="9.7573125" lon="118.7478978"/>
+  <node id="2970265678" lat="9.7574032" lon="118.7474748"/>
+  <node id="2970265679" lat="9.7574248" lon="118.7479780"/>
+  <node id="2970265680" lat="9.7574276" lon="118.7473502"/>
+  <node id="2970265681" lat="9.7574319" lon="118.7479109"/>
+  <node id="2970265682" lat="9.7574607" lon="118.7474864"/>
+  <node id="2970265683" lat="9.7574588" lon="118.7472747"/>
+  <node id="2970265685" lat="9.7574851" lon="118.7473618"/>
+  <node id="2970265686" lat="9.7574780" lon="118.7471462"/>
+  <node id="2970265689" lat="9.7575124" lon="118.7474858"/>
+  <node id="2970265690" lat="9.7575072" lon="118.7480622"/>
+  <node id="2970265693" lat="9.7575375" lon="118.7473612"/>
+  <node id="2970265695" lat="9.7575439" lon="118.7482295"/>
+  <node id="2970265697" lat="9.7575639" lon="118.7474965"/>
+  <node id="2970265699" lat="9.7575890" lon="118.7473719"/>
+  <node id="2970265700" lat="9.7575836" lon="118.7472940"/>
+  <node id="2970265701" lat="9.7575947" lon="118.7480425"/>
+  <node id="2970265702" lat="9.7576029" lon="118.7471655"/>
+  <node id="2970265703" lat="9.7576227" lon="118.7479002"/>
+  <node id="2970265704" lat="9.7576292" lon="118.7478247"/>
+  <node id="2970265707" lat="9.7576314" lon="118.7482097"/>
+  <node id="2970265720" lat="9.7577119" lon="118.7472553"/>
+  <node id="2970265721" lat="9.7577219" lon="118.7471630"/>
+  <node id="2970265730" lat="9.7578041" lon="118.7472657"/>
+  <node id="2970265731" lat="9.7578142" lon="118.7471733"/>
+  <node id="2970265732" lat="9.7578333" lon="118.7478738"/>
+  <node id="2970265738" lat="9.7578727" lon="118.7480666"/>
+  <node id="2970265748" lat="9.7579041" lon="118.7478589"/>
+  <node id="2970265752" lat="9.7579435" lon="118.7480517"/>
+  <node id="2970265767" lat="9.7580145" lon="118.7480482"/>
+  <node id="2970265768" lat="9.7580214" lon="118.7474195"/>
+  <node id="2970265769" lat="9.7580206" lon="118.7473167"/>
+  <node id="2970265771" lat="9.7580356" lon="118.7481285"/>
+  <node id="2970265777" lat="9.7580945" lon="118.7480776"/>
+  <node id="2970265779" lat="9.7581031" lon="118.7481103"/>
+  <node id="2970265781" lat="9.7581048" lon="118.7480238"/>
+  <node id="2970265783" lat="9.7581178" lon="118.7474188"/>
+  <node id="2970265784" lat="9.7581174" lon="118.7480714"/>
+  <node id="2970265785" lat="9.7581171" lon="118.7473160"/>
+  <node id="2970265793" lat="9.7584701" lon="118.7480767"/>
+  <node id="2970265795" lat="9.7584794" lon="118.7481599"/>
+  <node id="2970265798" lat="9.7585977" lon="118.7480621"/>
+  <node id="2970265799" lat="9.7586070" lon="118.7481453"/>
+  <node id="3215418539" lat="9.7591220" lon="118.7475698"/>
+  <node id="3215418540" lat="9.7598176" lon="118.7474660"/>
+  <node id="3215418541" lat="9.7598528" lon="118.7477091"/>
+  <node id="3453525177" lat="9.7580533" lon="118.7477198"/>
+  <node id="3453525178" lat="9.7580629" lon="118.7478412"/>
+  <node id="3453525179" lat="9.7582303" lon="118.7477055"/>
+  <node id="3453525180" lat="9.7582398" lon="118.7478269"/>
+  <node id="3960784257" lat="9.7592217" lon="118.7589511"/>
+  <node id="4124612527" lat="9.7558687" lon="118.7472363"/>
+  <node id="4124612530" lat="9.7558847" lon="118.7470326"/>
+  <node id="4124612531" lat="9.7559631" lon="118.7472439"/>
+  <node id="4124612532" lat="9.7559668" lon="118.7472654"/>
+  <node id="4124612533" lat="9.7559791" lon="118.7470403"/>
+  <node id="4124612534" lat="9.7559846" lon="118.7470380"/>
+  <node id="4124612535" lat="9.7560458" lon="118.7472718"/>
+  <node id="4124612536" lat="9.7560518" lon="118.7472442"/>
+  <node id="4124612537" lat="9.7560637" lon="118.7470444"/>
+  <node id="4124612538" lat="9.7560704" lon="118.7470077"/>
+  <node id="4124612539" lat="9.7561397" lon="118.7472513"/>
+  <node id="4124612540" lat="9.7561417" lon="118.7472584"/>
+  <node id="4124612541" lat="9.7561568" lon="118.7470703"/>
+  <node id="4124612542" lat="9.7561583" lon="118.7470148"/>
+  <node id="4124612543" lat="9.7562869" lon="118.7471829"/>
+  <node id="4124612544" lat="9.7562983" lon="118.7476967"/>
+  <node id="4124612545" lat="9.7563036" lon="118.7471071"/>
+  <node id="4124612546" lat="9.7563095" lon="118.7478626"/>
+  <node id="4124612547" lat="9.7563114" lon="118.7479734"/>
+  <node id="4124612548" lat="9.7563748" lon="118.7473113"/>
+  <node id="4124612549" lat="9.7563914" lon="118.7476903"/>
+  <node id="4124612550" lat="9.7563975" lon="118.7472081"/>
+  <node id="4124612551" lat="9.7564025" lon="118.7478562"/>
+  <node id="4124612552" lat="9.7564086" lon="118.7476901"/>
+  <node id="4124612553" lat="9.7564110" lon="118.7475705"/>
+  <node id="4124612554" lat="9.7564950" lon="118.7478897"/>
+  <node id="4124612555" lat="9.7565139" lon="118.7477215"/>
+  <node id="4124612556" lat="9.7565165" lon="118.7477296"/>
+  <node id="4124612557" lat="9.7565217" lon="118.7475947"/>
+  <node id="4124612558" lat="9.7565294" lon="118.7476829"/>
+  <node id="4124612559" lat="9.7565381" lon="118.7476029"/>
+  <node id="4124612560" lat="9.7565809" lon="118.7479015"/>
+  <node id="4124612561" lat="9.7566023" lon="118.7477414"/>
+  <node id="4124612562" lat="9.7566598" lon="118.7476975"/>
+  <node id="4124612563" lat="9.7566685" lon="118.7476174"/>
+  <node id="4124612565" lat="9.7566931" lon="118.7476880"/>
+  <node id="4124612566" lat="9.7567406" lon="118.7474409"/>
+  <node id="4124612567" lat="9.7567585" lon="118.7473413"/>
+  <node id="4124612568" lat="9.7568287" lon="118.7477978"/>
+  <node id="4124612569" lat="9.7568376" lon="118.7477019"/>
+  <node id="4124612570" lat="9.7568690" lon="118.7474646"/>
+  <node id="4124612571" lat="9.7568869" lon="118.7473650"/>
+  <node id="4124613853" lat="9.7558985" lon="118.7478936"/>
+  <node id="4124613854" lat="9.7559074" lon="118.7480111"/>
+  <node id="4124613855" lat="9.7560508" lon="118.7478817"/>
+  <node id="4124613856" lat="9.7560597" lon="118.7479991"/>
+  <node id="4124613857" lat="9.7561795" lon="118.7469770"/>
+  <node id="4124613858" lat="9.7562921" lon="118.7471042"/>
+  <node id="4124613859" lat="9.7563148" lon="118.7470110"/>
+  <node id="4124613860" lat="9.7564649" lon="118.7470162"/>
+  <node id="4124613861" lat="9.7564736" lon="118.7470992"/>
+  <node id="4124613862" lat="9.7564958" lon="118.7469907"/>
+  <node id="4124613863" lat="9.7565527" lon="118.7471343"/>
+  <node id="4124613864" lat="9.7565563" lon="118.7471166"/>
+  <node id="4124613865" lat="9.7567376" lon="118.7471732"/>
+  <node id="4124613866" lat="9.7567634" lon="118.7470470"/>
+  <node id="4124613867" lat="9.7570924" lon="118.7469979"/>
+  <node id="4124613868" lat="9.7571061" lon="118.7471869"/>
+  <node id="4124613869" lat="9.7571332" lon="118.7470498"/>
+  <node id="4124613870" lat="9.7571280" lon="118.7468182"/>
+  <node id="4124613871" lat="9.7571473" lon="118.7475445"/>
+  <node id="4124613872" lat="9.7571974" lon="118.7472892"/>
+  <node id="4124613873" lat="9.7571998" lon="118.7472746"/>
+  <node id="4124613874" lat="9.7572093" lon="118.7472080"/>
+  <node id="4124613875" lat="9.7572122" lon="118.7472167"/>
+  <node id="4124613876" lat="9.7572365" lon="118.7470708"/>
+  <node id="4124613877" lat="9.7572372" lon="118.7469005"/>
+  <node id="4124613878" lat="9.7572469" lon="118.7475646"/>
+  <node id="4124613879" lat="9.7572486" lon="118.7468428"/>
+  <node id="4124613880" lat="9.7572586" lon="118.7475048"/>
+  <node id="4124613881" lat="9.7572733" lon="118.7475078"/>
+  <node id="4124613882" lat="9.7573057" lon="118.7472980"/>
+  <node id="4124613883" lat="9.7573116" lon="118.7473123"/>
+  <node id="4124613884" lat="9.7573181" lon="118.7472401"/>
+  <node id="4124613885" lat="9.7573476" lon="118.7470499"/>
+  <node id="4124613886" lat="9.7573718" lon="118.7469279"/>
+  <node id="4124619089" lat="9.7582406" lon="118.7477352"/>
+  <node id="4124619090" lat="9.7582531" lon="118.7478358"/>
+  <node id="4124619091" lat="9.7583623" lon="118.7480038"/>
+  <node id="4124619092" lat="9.7583802" lon="118.7481982"/>
+  <node id="4124619093" lat="9.7583786" lon="118.7478221"/>
+  <node id="4124619094" lat="9.7583916" lon="118.7479984"/>
+  <node id="4124619096" lat="9.7584262" lon="118.7478136"/>
+  <node id="4124619097" lat="9.7584250" lon="118.7478186"/>
+  <node id="4124619098" lat="9.7584381" lon="118.7479949"/>
+  <node id="4124619099" lat="9.7584520" lon="118.7476244"/>
+  <node id="4124619100" lat="9.7584430" lon="118.7479961"/>
+  <node id="4124619101" lat="9.7584569" lon="118.7477425"/>
+  <node id="4124619102" lat="9.7584608" lon="118.7481905"/>
+  <node id="4124619103" lat="9.7585478" lon="118.7477439"/>
+  <node id="4124619104" lat="9.7585572" lon="118.7479688"/>
+  <node id="4124619105" lat="9.7585868" lon="118.7476185"/>
+  <node id="4124619106" lat="9.7585918" lon="118.7477367"/>
+  <node id="4124619107" lat="9.7585945" lon="118.7476211"/>
+  <node id="4124619108" lat="9.7585960" lon="118.7477418"/>
+  <node id="4124619109" lat="9.7586041" lon="118.7478603"/>
+  <node id="4124619110" lat="9.7586045" lon="118.7478577"/>
+  <node id="4124619111" lat="9.7586055" lon="118.7479667"/>
+  <node id="4124619112" lat="9.7586082" lon="118.7479554"/>
+  <node id="4124619113" lat="9.7586137" lon="118.7479653"/>
+  <node id="4124619114" lat="9.7586200" lon="118.7481162"/>
+  <node id="4124619115" lat="9.7586788" lon="118.7476174"/>
+  <node id="4124619116" lat="9.7586828" lon="118.7478568"/>
+  <node id="4124619117" lat="9.7586836" lon="118.7478764"/>
+  <node id="4124619118" lat="9.7586888" lon="118.7478540"/>
+  <node id="4124619119" lat="9.7587149" lon="118.7475581"/>
+  <node id="4124619120" lat="9.7587203" lon="118.7476467"/>
+  <node id="4124619121" lat="9.7587210" lon="118.7476401"/>
+  <node id="4124619122" lat="9.7587213" lon="118.7478748"/>
+  <node id="4124619123" lat="9.7587245" lon="118.7479504"/>
+  <node id="4124619124" lat="9.7587259" lon="118.7479605"/>
+  <node id="4124619125" lat="9.7587270" lon="118.7477361"/>
+  <node id="4124619126" lat="9.7587322" lon="118.7481113"/>
+  <node id="4124619127" lat="9.7587516" lon="118.7478216"/>
+  <node id="4124619128" lat="9.7587572" lon="118.7478966"/>
+  <node id="4124619129" lat="9.7587910" lon="118.7476413"/>
+  <node id="4124619130" lat="9.7587970" lon="118.7476377"/>
+  <node id="4124619131" lat="9.7587976" lon="118.7477306"/>
+  <node id="4124619132" lat="9.7588040" lon="118.7477313"/>
+  <node id="4124619133" lat="9.7588280" lon="118.7478157"/>
+  <node id="4124619134" lat="9.7588336" lon="118.7478908"/>
+  <node id="4124619135" lat="9.7588448" lon="118.7475481"/>
+  <node id="4124619136" lat="9.7588509" lon="118.7476301"/>
+  <node id="4124619137" lat="9.7588595" lon="118.7475562"/>
+  <node id="4124619138" lat="9.7588603" lon="118.7476328"/>
+  <node id="4124619139" lat="9.7588672" lon="118.7477264"/>
+  <node id="4124619140" lat="9.7588680" lon="118.7476703"/>
+  <node id="4124619141" lat="9.7589307" lon="118.7475507"/>
+  <node id="4124619142" lat="9.7589392" lon="118.7476648"/>
+  <node id="4124619143" lat="9.7589417" lon="118.7475697"/>
+  <node id="4124619144" lat="9.7589470" lon="118.7476401"/>
+  <node id="4124619145" lat="9.7590231" lon="118.7475634"/>
+  <node id="4124619146" lat="9.7590284" lon="118.7476338"/>
+  <node id="4124619920" lat="9.7576622" lon="118.7473814"/>
+  <node id="4124619921" lat="9.7576637" lon="118.7474756"/>
+  <node id="4124619922" lat="9.7577399" lon="118.7473802"/>
+  <node id="4124619923" lat="9.7577413" lon="118.7474743"/>
+  <node id="4124619924" lat="9.7577455" lon="118.7473375"/>
+  <node id="4124619925" lat="9.7577473" lon="118.7474516"/>
+  <node id="4124619926" lat="9.7577500" lon="118.7474580"/>
+  <node id="4124619927" lat="9.7577513" lon="118.7475424"/>
+  <node id="4124619928" lat="9.7578147" lon="118.7474570"/>
+  <node id="4124619929" lat="9.7578160" lon="118.7475414"/>
+  <node id="4124619930" lat="9.7578309" lon="118.7473361"/>
+  <node id="4124619931" lat="9.7578327" lon="118.7474502"/>
+  <node id="4124619932" lat="9.7578482" lon="118.7471816"/>
+  <node id="4124619933" lat="9.7578482" lon="118.7472975"/>
+  <node id="4124619934" lat="9.7578612" lon="118.7473621"/>
+  <node id="4124619935" lat="9.7578623" lon="118.7474311"/>
+  <node id="4124619936" lat="9.7578648" lon="118.7474393"/>
+  <node id="4124619937" lat="9.7578655" lon="118.7474818"/>
+  <node id="4124619938" lat="9.7579493" lon="118.7471816"/>
+  <node id="4124619939" lat="9.7579493" lon="118.7472975"/>
+  <node id="4124619940" lat="9.7579510" lon="118.7474379"/>
+  <node id="4124619941" lat="9.7579517" lon="118.7474804"/>
+  <node id="4124619942" lat="9.7579518" lon="118.7473606"/>
+  <node id="4124619943" lat="9.7579529" lon="118.7474297"/>
+  <node id="4124619944" lat="9.7579621" lon="118.7474340"/>
+  <node id="4124619945" lat="9.7579650" lon="118.7475179"/>
+  <node id="4124619946" lat="9.7580635" lon="118.7474303"/>
+  <node id="4124619947" lat="9.7580665" lon="118.7475142"/>
+  <node id="4124619948" lat="9.7581251" lon="118.7474201"/>
+  <node id="4124619949" lat="9.7581287" lon="118.7472891"/>
+  <node id="4124619950" lat="9.7582631" lon="118.7474240"/>
+  <node id="4124619951" lat="9.7582667" lon="118.7472930"/>
+  <node id="4124619952" lat="9.7582765" lon="118.7471286"/>
+  <node id="4124619953" lat="9.7582825" lon="118.7471763"/>
+  <node id="4124619954" lat="9.7582988" lon="118.7474445"/>
+  <node id="4124619955" lat="9.7583042" lon="118.7472218"/>
+  <node id="4124619956" lat="9.7583050" lon="118.7472217"/>
+  <node id="4124619957" lat="9.7583057" lon="118.7471775"/>
+  <node id="4124619958" lat="9.7584313" lon="118.7472271"/>
+  <node id="4124619959" lat="9.7584344" lon="118.7472288"/>
+  <node id="4124619960" lat="9.7584485" lon="118.7474408"/>
+  <node id="4124619961" lat="9.7584594" lon="118.7473755"/>
+  <node id="4124619962" lat="9.7585621" lon="118.7470804"/>
+  <node id="4124619963" lat="9.7585657" lon="118.7472058"/>
+  <node id="4124619964" lat="9.7585669" lon="118.7472028"/>
+  <node id="4124619965" lat="9.7585907" lon="118.7473525"/>
+  <node id="4124619966" lat="9.7588714" lon="118.7472777"/>
+  <node id="4124619967" lat="9.7588805" lon="118.7471228"/>
+  <node id="4124619968" lat="9.7591384" lon="118.7472326"/>
+  <node id="4124619969" lat="9.7591445" lon="118.7470777"/>
+  <node id="4124619970" lat="9.7591456" lon="118.7471786"/>
+  <node id="4124619971" lat="9.7591480" lon="118.7472754"/>
+  <node id="4124619972" lat="9.7593199" lon="118.7471742"/>
+  <node id="4124619973" lat="9.7593223" lon="118.7472710"/>
+  <node id="4124619974" lat="9.7595485" lon="118.7470599"/>
+  <node id="4124619975" lat="9.7595497" lon="118.7471626"/>
+  <node id="4124619976" lat="9.7597110" lon="118.7471641"/>
+  <node id="4124619977" lat="9.7597122" lon="118.7470367"/>
+  <node id="4124620339" lat="9.7593603" lon="118.7472514"/>
+  <node id="4124620340" lat="9.7593648" lon="118.7471683"/>
+  <node id="4124620341" lat="9.7593718" lon="118.7472532"/>
+  <node id="4124620342" lat="9.7593800" lon="118.7473081"/>
+  <node id="4124620343" lat="9.7594443" lon="118.7471561"/>
+  <node id="4124620344" lat="9.7594490" lon="118.7471876"/>
+  <node id="4124620345" lat="9.7595343" lon="118.7471745"/>
+  <node id="4124620346" lat="9.7595360" lon="118.7472279"/>
+  <node id="4124620347" lat="9.7595415" lon="118.7472225"/>
+  <node id="4124620348" lat="9.7595442" lon="118.7472828"/>
+  <node id="5265622123" lat="9.7584137" lon="118.7477130"/>
+  <node id="5752752011" lat="9.7528248" lon="118.7477667"/>
+  <node id="5752752012" lat="9.7522902" lon="118.7477446"/>
+  <node id="5756904434" lat="9.7552178" lon="118.7473436"/>
+  <node id="5757467598" lat="9.7540003" lon="118.7475736"/>
+  <node id="5757467599" lat="9.7575526" lon="118.7476514"/>
+  <node id="5757467601" lat="9.7577132" lon="118.7479357"/>
+  <node id="5757467610" lat="9.7585729" lon="118.7555626"/>
+  <node id="5757467611" lat="9.7585280" lon="118.7553453"/>
+  <node id="5757467612" lat="9.7583839" lon="118.7540900"/>
+  <node id="5757467728" lat="9.7587963" lon="118.7443314"/>
+  <node id="5757467729" lat="9.7587752" lon="118.7442912"/>
+  <node id="5757467730" lat="9.7581434" lon="118.7441692"/>
+  <node id="5757467731" lat="9.7578817" lon="118.7441343"/>
+  <node id="5757467732" lat="9.7579451" lon="118.7441370"/>
+  <node id="5757467733" lat="9.7579022" lon="118.7445487"/>
+  <node id="5757467734" lat="9.7586760" lon="118.7442456"/>
+  <node id="5757467735" lat="9.7588029" lon="118.7447298"/>
+  <node id="5757467736" lat="9.7586952" lon="118.7460796"/>
+  <node id="5757467738" lat="9.7579200" lon="118.7476232"/>
+  <node id="5757467739" lat="9.7581302" lon="118.7475944"/>
+  <node id="5757467740" lat="9.7560227" lon="118.7473872"/>
+  <node id="5757467741" lat="9.7555489" lon="118.7473335"/>
+  <node id="5757467742" lat="9.7562355" lon="118.7474274"/>
+  <node id="5757467745" lat="9.7578975" lon="118.7446198"/>
+  <node id="5764043132" lat="9.7623590" lon="118.7472587"/>
+  <node id="5764198722" lat="9.7593747" lon="118.7599802"/>
+  <node id="5764198741" lat="9.7594062" lon="118.7601814"/>
+  <node id="5764198748" lat="9.7589737" lon="118.7573083"/>
+  <node id="5764321810" lat="9.7634153" lon="118.7473161"/>
+  <node id="5803998016" lat="9.7589789" lon="118.7477440">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Mang Gary's Bulalo"/>
+  </node>
+  <node id="6039190651" lat="9.7546497" lon="118.7474463"/>
+  <node id="6039190652" lat="9.7545570" lon="118.7474643"/>
+  <node id="7867653069" lat="9.7593716" lon="118.7462284"/>
+  <node id="7867653070" lat="9.7593805" lon="118.7462134"/>
+  <node id="7867653071" lat="9.7598808" lon="118.7462345"/>
+  <node id="7868014691" lat="9.7575679" lon="118.7462317"/>
+  <node id="8008498987" lat="9.7594513" lon="118.7605542"/>
+  <node id="8008498989" lat="9.7582325" lon="118.7527859"/>
+  <node id="8008646370" lat="9.7587088" lon="118.7560575"/>
+  <node id="8008801907" lat="9.7590983" lon="118.7580565"/>
+  <node id="8008801938" lat="9.7585466" lon="118.7554353"/>
+  <node id="8008801944" lat="9.7584788" lon="118.7550298"/>
+  <way id="39167800">
+    <nd ref="469173101"/>
+    <nd ref="1767099580"/>
+    <nd ref="469173102"/>
+    <nd ref="1767099584"/>
+    <nd ref="469173105"/>
+    <nd ref="1767099590"/>
+    <nd ref="469173106"/>
+    <nd ref="5757467733"/>
+    <nd ref="5757467745"/>
+    <nd ref="477394815"/>
+    <nd ref="469173107"/>
+    <nd ref="1767099586"/>
+    <nd ref="7868014691"/>
+    <nd ref="469173108"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Pineda Road"/>
+  </way>
+  <way id="39459205">
+    <nd ref="469173105"/>
+    <nd ref="5757467731"/>
+    <nd ref="5757467732"/>
+    <nd ref="5757467730"/>
+    <nd ref="1767099595"/>
+    <nd ref="1767099601"/>
+    <nd ref="5757467734"/>
+    <nd ref="1767099606"/>
+    <nd ref="5757467729"/>
+    <nd ref="5757467728"/>
+    <nd ref="472571106"/>
+    <nd ref="5757467735"/>
+    <nd ref="1767099604"/>
+    <nd ref="5757467736"/>
+    <nd ref="1767099602"/>
+    <nd ref="472571107"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="40274873">
+    <nd ref="320811091"/>
+    <nd ref="5757467601"/>
+    <nd ref="1108567798"/>
+    <nd ref="1108568303"/>
+    <nd ref="1108567220"/>
+    <nd ref="1108566800"/>
+    <nd ref="1108567925"/>
+    <nd ref="1108568441"/>
+    <nd ref="1108568179"/>
+    <nd ref="1108567629"/>
+    <nd ref="8008498989"/>
+    <nd ref="1108568375"/>
+    <nd ref="5757467612"/>
+    <nd ref="708874490"/>
+    <nd ref="485779141"/>
+    <nd ref="8008801944"/>
+    <nd ref="5757467611"/>
+    <nd ref="8008801938"/>
+    <nd ref="5757467610"/>
+    <nd ref="472571198"/>
+    <nd ref="8008646370"/>
+    <nd ref="485779140"/>
+    <nd ref="1108567722"/>
+    <nd ref="472571189"/>
+    <nd ref="5764198748"/>
+    <nd ref="1108567162"/>
+    <nd ref="8008801907"/>
+    <nd ref="1108566712"/>
+    <nd ref="3960784257"/>
+    <nd ref="5764198722"/>
+    <nd ref="5764198741"/>
+    <nd ref="8008498987"/>
+    <nd ref="1841048611"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="San Pedro"/>
+  </way>
+  <way id="95603404">
+    <nd ref="1108567529"/>
+    <nd ref="1108566955"/>
+    <nd ref="7867653069"/>
+    <nd ref="7867653070"/>
+    <nd ref="1767099619"/>
+    <nd ref="1767099621"/>
+    <nd ref="1767099632"/>
+    <nd ref="7867653071"/>
+    <nd ref="1767099633"/>
+    <nd ref="1108568062"/>
+    <nd ref="1108566673"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="105503978">
+    <nd ref="1215068245"/>
+    <nd ref="1215068115"/>
+    <nd ref="1215068008"/>
+    <nd ref="1215068583"/>
+    <nd ref="1215068245"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="SJD Center"/>
+  </way>
+  <way id="105504010">
+    <nd ref="320811086"/>
+    <nd ref="5764321810"/>
+    <nd ref="1215068077"/>
+    <nd ref="5764043132"/>
+    <nd ref="469173142"/>
+    <nd ref="1108567294"/>
+    <nd ref="1108566842"/>
+    <nd ref="320811089"/>
+    <nd ref="1767099641"/>
+    <nd ref="1215068357"/>
+    <nd ref="1108566673"/>
+    <nd ref="1108567529"/>
+    <nd ref="472571107"/>
+    <nd ref="5757467739"/>
+    <nd ref="5757467738"/>
+    <nd ref="320811091"/>
+    <nd ref="5757467599"/>
+    <nd ref="469173109"/>
+    <nd ref="469173108"/>
+    <nd ref="1767099572"/>
+    <nd ref="5757467742"/>
+    <nd ref="5757467740"/>
+    <nd ref="320811101"/>
+    <nd ref="5757467741"/>
+    <nd ref="1215067899"/>
+    <nd ref="5756904434"/>
+    <nd ref="485779114"/>
+    <nd ref="477394824"/>
+    <nd ref="6039190651"/>
+    <nd ref="6039190652"/>
+    <nd ref="1215067711"/>
+    <nd ref="5757467598"/>
+    <nd ref="1108567437"/>
+    <nd ref="1108567224"/>
+    <nd ref="1215068101"/>
+    <nd ref="5752752011"/>
+    <nd ref="320811104"/>
+    <nd ref="1841057398"/>
+    <nd ref="5752752012"/>
+    <nd ref="430058062"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="National Highway"/>
+    <tag k="ref" v="491"/>
+  </way>
+  <way id="165130601">
+    <nd ref="1767099572"/>
+    <nd ref="1767099577"/>
+    <nd ref="1767099579"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="174760700">
+    <nd ref="1854269922"/>
+    <nd ref="1854269928"/>
+    <nd ref="1854269929"/>
+    <nd ref="1854269925"/>
+    <nd ref="4124613860"/>
+    <nd ref="1854269922"/>
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Caltex"/>
+    <tag k="name" v="Caltex"/>
+  </way>
+  <way id="174760701">
+    <nd ref="1854269952"/>
+    <nd ref="1854269951"/>
+    <nd ref="1854269945"/>
+    <nd ref="1854269950"/>
+    <nd ref="1854269952"/>
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="addr:street" v="National Hi-Way"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="First Consolidated Bank"/>
+  </way>
+  <way id="174760702">
+    <nd ref="1854269943"/>
+    <nd ref="1854269932"/>
+    <nd ref="1854269948"/>
+    <nd ref="1854269947"/>
+    <nd ref="1854269943"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Green Bank"/>
+  </way>
+  <way id="174760709">
+    <nd ref="1854269953"/>
+    <nd ref="1854269954"/>
+    <nd ref="1854269958"/>
+    <nd ref="1854269957"/>
+    <nd ref="1854269955"/>
+    <nd ref="1854269953"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="name" v="Shell"/>
+  </way>
+  <way id="293426802">
+    <nd ref="2970265693"/>
+    <nd ref="2970265699"/>
+    <nd ref="2970265697"/>
+    <nd ref="2970265689"/>
+    <nd ref="2970265693"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293426840">
+    <nd ref="2970265769"/>
+    <nd ref="2970265785"/>
+    <nd ref="2970265783"/>
+    <nd ref="2970265768"/>
+    <nd ref="2970265769"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293426852">
+    <nd ref="2970265686"/>
+    <nd ref="2970265702"/>
+    <nd ref="2970265700"/>
+    <nd ref="2970265683"/>
+    <nd ref="2970265686"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293426860">
+    <nd ref="2970265599"/>
+    <nd ref="2970265598"/>
+    <nd ref="2970265588"/>
+    <nd ref="2970265597"/>
+    <nd ref="2970265599"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427063">
+    <nd ref="2970265560"/>
+    <nd ref="2970265561"/>
+    <nd ref="4124612547"/>
+    <nd ref="2970265549"/>
+    <nd ref="2970265548"/>
+    <nd ref="2970265560"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427078">
+    <nd ref="2970265610"/>
+    <nd ref="2970265621"/>
+    <nd ref="2970265624"/>
+    <nd ref="2970265611"/>
+    <nd ref="2970265610"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427180">
+    <nd ref="2970265721"/>
+    <nd ref="2970265731"/>
+    <nd ref="2970265730"/>
+    <nd ref="2970265720"/>
+    <nd ref="2970265721"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427190">
+    <nd ref="2970265680"/>
+    <nd ref="2970265685"/>
+    <nd ref="2970265682"/>
+    <nd ref="2970265678"/>
+    <nd ref="2970265680"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427224">
+    <nd ref="2970265793"/>
+    <nd ref="2970265798"/>
+    <nd ref="2970265799"/>
+    <nd ref="2970265795"/>
+    <nd ref="2970265793"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427304">
+    <nd ref="2970265661"/>
+    <nd ref="2970265704"/>
+    <nd ref="2970265703"/>
+    <nd ref="2970265659"/>
+    <nd ref="2970265661"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427311">
+    <nd ref="2970265748"/>
+    <nd ref="2970265752"/>
+    <nd ref="2970265738"/>
+    <nd ref="2970265732"/>
+    <nd ref="2970265748"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427316">
+    <nd ref="2970265701"/>
+    <nd ref="2970265707"/>
+    <nd ref="2970265695"/>
+    <nd ref="2970265690"/>
+    <nd ref="2970265701"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427348">
+    <nd ref="2970265581"/>
+    <nd ref="2970265593"/>
+    <nd ref="2970265591"/>
+    <nd ref="2970265580"/>
+    <nd ref="2970265581"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427355">
+    <nd ref="2970265670"/>
+    <nd ref="2970265681"/>
+    <nd ref="2970265679"/>
+    <nd ref="2970265669"/>
+    <nd ref="2970265670"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="293427367">
+    <nd ref="2970265767"/>
+    <nd ref="2970265781"/>
+    <nd ref="2970265784"/>
+    <nd ref="2970265777"/>
+    <nd ref="2970265779"/>
+    <nd ref="2970265771"/>
+    <nd ref="2970265767"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="315426258">
+    <nd ref="1220014908"/>
+    <nd ref="3215418541"/>
+    <nd ref="3215418540"/>
+    <nd ref="3215418539"/>
+    <nd ref="1220014908"/>
+    <tag k="addr:city" v="Puerto Princesa"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Commbridge Academy International Inc"/>
+  </way>
+  <way id="338281231">
+    <nd ref="3453525177"/>
+    <nd ref="3453525179"/>
+    <nd ref="3453525180"/>
+    <nd ref="3453525178"/>
+    <nd ref="3453525177"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662110">
+    <nd ref="4124612542"/>
+    <nd ref="4124612539"/>
+    <nd ref="4124612536"/>
+    <nd ref="4124612538"/>
+    <nd ref="4124612542"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662112">
+    <nd ref="4124612544"/>
+    <nd ref="4124612549"/>
+    <nd ref="4124612551"/>
+    <nd ref="4124612546"/>
+    <nd ref="4124612544"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662113">
+    <nd ref="4124612569"/>
+    <nd ref="4124612568"/>
+    <nd ref="1215068602"/>
+    <nd ref="4124612565"/>
+    <nd ref="4124612569"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Almira Building"/>
+  </way>
+  <way id="410662117">
+    <nd ref="4124612571"/>
+    <nd ref="4124612570"/>
+    <nd ref="4124612566"/>
+    <nd ref="4124612567"/>
+    <nd ref="4124612571"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662118">
+    <nd ref="4124612563"/>
+    <nd ref="4124612562"/>
+    <nd ref="4124612558"/>
+    <nd ref="4124612559"/>
+    <nd ref="4124612563"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662119">
+    <nd ref="4124612533"/>
+    <nd ref="4124612531"/>
+    <nd ref="4124612527"/>
+    <nd ref="4124612530"/>
+    <nd ref="4124612533"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662123">
+    <nd ref="4124612561"/>
+    <nd ref="4124612560"/>
+    <nd ref="4124612554"/>
+    <nd ref="4124612556"/>
+    <nd ref="4124612561"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662125">
+    <nd ref="4124612557"/>
+    <nd ref="4124612555"/>
+    <nd ref="4124612552"/>
+    <nd ref="4124612553"/>
+    <nd ref="4124612557"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662127">
+    <nd ref="4124612537"/>
+    <nd ref="4124612535"/>
+    <nd ref="4124612532"/>
+    <nd ref="4124612534"/>
+    <nd ref="4124612537"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662131">
+    <nd ref="4124612548"/>
+    <nd ref="4124612540"/>
+    <nd ref="4124612541"/>
+    <nd ref="4124613857"/>
+    <nd ref="4124613859"/>
+    <nd ref="4124613858"/>
+    <nd ref="4124612545"/>
+    <nd ref="4124612543"/>
+    <nd ref="4124612550"/>
+    <nd ref="4124612548"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662224">
+    <nd ref="4124613855"/>
+    <nd ref="4124613856"/>
+    <nd ref="4124613854"/>
+    <nd ref="4124613853"/>
+    <nd ref="4124613855"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662225">
+    <nd ref="4124613876"/>
+    <nd ref="4124613874"/>
+    <nd ref="4124613868"/>
+    <nd ref="4124613869"/>
+    <nd ref="4124613876"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662227">
+    <nd ref="4124613884"/>
+    <nd ref="4124613882"/>
+    <nd ref="4124613873"/>
+    <nd ref="4124613875"/>
+    <nd ref="4124613884"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662228">
+    <nd ref="4124613883"/>
+    <nd ref="4124613881"/>
+    <nd ref="4124613880"/>
+    <nd ref="4124613878"/>
+    <nd ref="4124613871"/>
+    <nd ref="4124613872"/>
+    <nd ref="4124613883"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662229">
+    <nd ref="4124613886"/>
+    <nd ref="4124613885"/>
+    <nd ref="4124613867"/>
+    <nd ref="4124613870"/>
+    <nd ref="4124613879"/>
+    <nd ref="4124613877"/>
+    <nd ref="4124613886"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662230">
+    <nd ref="4124613866"/>
+    <nd ref="4124613865"/>
+    <nd ref="4124613863"/>
+    <nd ref="4124613864"/>
+    <nd ref="4124613861"/>
+    <nd ref="4124613862"/>
+    <nd ref="4124613866"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662712">
+    <nd ref="4124619131"/>
+    <nd ref="4124619125"/>
+    <nd ref="4124619120"/>
+    <nd ref="4124619129"/>
+    <nd ref="4124619131"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662714">
+    <nd ref="4124619103"/>
+    <nd ref="4124619108"/>
+    <nd ref="4124619111"/>
+    <nd ref="4124619104"/>
+    <nd ref="4124619103"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662719">
+    <nd ref="4124619107"/>
+    <nd ref="4124619115"/>
+    <nd ref="4124619118"/>
+    <nd ref="4124619110"/>
+    <nd ref="4124619107"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662725">
+    <nd ref="4124619139"/>
+    <nd ref="4124619132"/>
+    <nd ref="4124619130"/>
+    <nd ref="4124619138"/>
+    <nd ref="4124619139"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662728">
+    <nd ref="4124619113"/>
+    <nd ref="4124619124"/>
+    <nd ref="4124619126"/>
+    <nd ref="4124619114"/>
+    <nd ref="4124619113"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662730">
+    <nd ref="4124619145"/>
+    <nd ref="4124619146"/>
+    <nd ref="4124619144"/>
+    <nd ref="4124619143"/>
+    <nd ref="4124619145"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662736">
+    <nd ref="4124619097"/>
+    <nd ref="4124619098"/>
+    <nd ref="4124619094"/>
+    <nd ref="4124619093"/>
+    <nd ref="4124619097"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662738">
+    <nd ref="4124619099"/>
+    <nd ref="4124619105"/>
+    <nd ref="4124619106"/>
+    <nd ref="4124619101"/>
+    <nd ref="4124619099"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662742">
+    <nd ref="4124619142"/>
+    <nd ref="4124619140"/>
+    <nd ref="4124619137"/>
+    <nd ref="4124619141"/>
+    <nd ref="4124619142"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662744">
+    <nd ref="5265622123"/>
+    <nd ref="4124619096"/>
+    <nd ref="4124619090"/>
+    <nd ref="4124619089"/>
+    <nd ref="5265622123"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="NCC Mall"/>
+  </way>
+  <way id="410662745">
+    <nd ref="4124619133"/>
+    <nd ref="4124619134"/>
+    <nd ref="4124619128"/>
+    <nd ref="4124619127"/>
+    <nd ref="4124619133"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662749">
+    <nd ref="4124619100"/>
+    <nd ref="4124619102"/>
+    <nd ref="4124619092"/>
+    <nd ref="4124619091"/>
+    <nd ref="4124619100"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662755">
+    <nd ref="4124619135"/>
+    <nd ref="4124619136"/>
+    <nd ref="4124619121"/>
+    <nd ref="4124619119"/>
+    <nd ref="4124619135"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662759">
+    <nd ref="4124619123"/>
+    <nd ref="4124619112"/>
+    <nd ref="4124619109"/>
+    <nd ref="4124619116"/>
+    <nd ref="4124619117"/>
+    <nd ref="4124619122"/>
+    <nd ref="4124619123"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662913">
+    <nd ref="4124619956"/>
+    <nd ref="4124619957"/>
+    <nd ref="4124619953"/>
+    <nd ref="4124619952"/>
+    <nd ref="4124619962"/>
+    <nd ref="4124619964"/>
+    <nd ref="4124619958"/>
+    <nd ref="4124619960"/>
+    <nd ref="4124619954"/>
+    <nd ref="4124619955"/>
+    <nd ref="4124619956"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662914">
+    <nd ref="4124619971"/>
+    <nd ref="4124619970"/>
+    <nd ref="4124619972"/>
+    <nd ref="4124619973"/>
+    <nd ref="4124619971"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662915">
+    <nd ref="4124619941"/>
+    <nd ref="4124619937"/>
+    <nd ref="4124619936"/>
+    <nd ref="4124619940"/>
+    <nd ref="4124619941"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662916">
+    <nd ref="4124619965"/>
+    <nd ref="4124619961"/>
+    <nd ref="4124619959"/>
+    <nd ref="4124619963"/>
+    <nd ref="4124619965"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662917">
+    <nd ref="4124619951"/>
+    <nd ref="4124619950"/>
+    <nd ref="4124619948"/>
+    <nd ref="4124619949"/>
+    <nd ref="4124619951"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662918">
+    <nd ref="4124619930"/>
+    <nd ref="4124619931"/>
+    <nd ref="4124619925"/>
+    <nd ref="4124619924"/>
+    <nd ref="4124619930"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662919">
+    <nd ref="4124619968"/>
+    <nd ref="4124619966"/>
+    <nd ref="4124619967"/>
+    <nd ref="4124619969"/>
+    <nd ref="4124619968"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662920">
+    <nd ref="4124619922"/>
+    <nd ref="4124619923"/>
+    <nd ref="4124619921"/>
+    <nd ref="4124619920"/>
+    <nd ref="4124619922"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662921">
+    <nd ref="4124619946"/>
+    <nd ref="4124619947"/>
+    <nd ref="4124619945"/>
+    <nd ref="4124619944"/>
+    <nd ref="4124619946"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662922">
+    <nd ref="4124619929"/>
+    <nd ref="4124619927"/>
+    <nd ref="4124619926"/>
+    <nd ref="4124619928"/>
+    <nd ref="4124619929"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662923">
+    <nd ref="4124619977"/>
+    <nd ref="4124619976"/>
+    <nd ref="4124619975"/>
+    <nd ref="4124619974"/>
+    <nd ref="4124619977"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662924">
+    <nd ref="4124619943"/>
+    <nd ref="4124619935"/>
+    <nd ref="4124619934"/>
+    <nd ref="4124619942"/>
+    <nd ref="4124619943"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662925">
+    <nd ref="4124619938"/>
+    <nd ref="4124619939"/>
+    <nd ref="4124619933"/>
+    <nd ref="4124619932"/>
+    <nd ref="4124619938"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662953">
+    <nd ref="4124620348"/>
+    <nd ref="4124620342"/>
+    <nd ref="4124620341"/>
+    <nd ref="4124620346"/>
+    <nd ref="4124620348"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="410662954">
+    <nd ref="4124620347"/>
+    <nd ref="4124620339"/>
+    <nd ref="4124620340"/>
+    <nd ref="4124620343"/>
+    <nd ref="4124620344"/>
+    <nd ref="4124620345"/>
+    <nd ref="4124620347"/>
+    <tag k="building" v="yes"/>
+  </way>
+
+</osm>

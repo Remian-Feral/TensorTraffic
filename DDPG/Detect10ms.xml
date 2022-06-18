@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-11-14 17:19:10 by Eclipse SUMO netedit Version 1.9.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="C:\Users\jerem\PycharmProjects\Tensor%20Tutorial\Traffic%20Experiments\Roadwork.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\jerem\PycharmProjects\Tensor%20Tutorial\Traffic%20Experiments\Roadwork.net.xml"/>
+        <output.street-names value="true"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="C:\Users\jerem\PycharmProjects\Tensor%20Tutorial\Traffic%20Experiments\Detect10ms.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <e2Detector id="Nation_Highway_North_Inner" lane="105504010#0_1" pos="179.03" length="500.00" freq="10.00" file="Nation_Highway_North_Inner.xml"/>
+    <e2Detector id="Nation_Highway_North_Outer" lane="105504010#0_0" pos="178.76" length="500.00" freq="10.00" file="Nation_Highway_North_Outer.xml"/>
+    <e2Detector id="Nation_Highway_South_Inner" lane="-105504010#6_1" pos="11.06" length="570.00" freq="10.00" file="Nation_Highway_South_Inner.xml"/>
+    <e2Detector id="Nation_Highway_South_Outer" lane="-105504010#6_0" pos="11.24" length="570.00" freq="10.00" file="Nation_Highway_South_Outer.xml"/>
+    <e2Detector id="Pineda" lane="39167800#0_0" pos="43.24" length="500.00" freq="10" file="Pineda.xml"/>
+    <e2Detector id="San_Pedro_Libis" lane="-40274873_0" pos="925.42" length="500.00" freq="10.00" file="San_Pedro_Libis.xml"/>
+</additional>
