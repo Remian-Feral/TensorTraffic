@@ -6,5 +6,7 @@ I used SUMO Traffic Simulator 1.9.1, Python 3.7.11, Pytorch 1.10.2 Gym 0.19.0, S
 
 NOTE: THIS PROJECT IS STILL A PROTOTYPE, AND STILL NEEDS FURTHER IMPROVEMENTS. 
 
+If you have any suggestion in improving the readme, you are welcome to contribute :)
+
 # System Heirarchy
 ![System Architecture](https://github.com/Remian-Feral/TensorTraffic/blob/main/img/System%20Architecture.jpg)
