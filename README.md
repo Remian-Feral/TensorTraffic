@@ -5,4 +5,4 @@ This is my first personal project, and a continuation from my thesis paper. The 
 I used SUMO Traffic Simulator 1.9.1, Python 3.7.11, Pytorch 1.10.2 Gym 0.19.0, Stable Baselines 3 version 1.4.0, Pycharm 2021.1.2 (Community Edition), and Anacond 3 as the virtual env.
 
 # System Heirarchy
-![System Architecture]()
+![System Architecture](https://github.com/Remian-Feral/TensorTraffic/blob/main/img/System%20Architecture.jpg)
